@@ -24,7 +24,7 @@ Demonstrates time series forecasting using NHiTS and TiDE models, evaluating and
 
 ![Results 1](https://drive.google.com/file/d/1dRPJCESfUe_o_WJfmZv25KLhTo9A0QSx)
 
-![Results 2](https://drive.google.com/file/d/1NKbr53O7d9m3NPNEZogYbj6vNoeW-azx)
+![Results 2](https://drive.google.com/file/d/1dRPJCESfUe_o_WJfmZv25KLhTo9A0QSx/view?usp=drive_link)
 
 2. File: train.py
 
