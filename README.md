@@ -22,9 +22,9 @@ Purpose:
 
 Demonstrates time series forecasting using NHiTS and TiDE models, evaluating and comparing their performance on the Australian Beer Consumption dataset.
 
-![Results 1](https://drive.google.com/file/d/1NKbr53O7d9m3NPNEZogYbj6vNoeW-azx/view?usp=sharing)
+![Results 1](https://drive.google.com/file/d/1dRPJCESfUe_o_WJfmZv25KLhTo9A0QSx)
 
-![Results 2](https://drive.google.com/uc?export=view&id=1AeUoN5Tl5SlzZc7WpKfBPlRyyMN_JiUD)
+![Results 2](https://drive.google.com/file/d/1NKbr53O7d9m3NPNEZogYbj6vNoeW-azx)
 
 2. File: train.py
 
