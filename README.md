@@ -4,7 +4,8 @@ CS 7150: Deep Learning Fall 2023 Final Project
 ## An Analysis of "Long-term Forecasting with TiDE: Time-series Dense Encoder"
 ### Analysis by: 
 Rohit Sisir Sahoo (NUID: 002736531, Email: sahoo.ro@northeastern.edu)
-Pratik Satish Hotchandani (NUID:  , Email: hotchandani.p@northeastern.edu)
+
+Pratik Satish Hotchandani (NUID: 002762545, Email: hotchandani.p@northeastern.edu)
 
 ### Abstract: 
 Recent work has shown that simple linear models can outperform several Transformer based approaches in long term time-series forecasting. Motivated by this, we propose a Multi-layer Perceptron (MLP) based encoder-decoder model, Time-series Dense Encoder (TiDE), for long-term time-series forecasting that enjoys the simplicity and speed of linear models while also being able to handle covariates and non-linear dependencies. Theoretically, we prove that the simplest linear analogue of our model can achieve near optimal error rate for linear dynamical systems (LDS) under some assumptions. Empirically, we show that our method can match or outperform prior approaches on popular long-term time-series forecasting benchmarks while being 5-10x faster than the best Transformer based model.
